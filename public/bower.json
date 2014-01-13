@@ -1,0 +1,23 @@
+{
+  "name": "foreground",
+  "version": "0.0.1",
+  "homepage": "https://github.com/simful/foreground",
+  "authors": [
+    "ibrahimyu <ibrahim7usuf@gmail.com>"
+  ],
+  "description": "Simful Foreground",
+  "license": "AGPL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flexslider": "*",
+    "bootstrap": "~3.0.3",
+    "flat-ui-official": "~2.1.1"
+  }
+}
